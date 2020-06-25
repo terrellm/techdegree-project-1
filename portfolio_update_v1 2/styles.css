@@ -169,6 +169,9 @@ a.linkedin {
 a.github {
   background-image: url(images/github.svg);
 }
+a.contact {
+  background-image: url(images/phone.png);
+}
 a.social:hover {
   opacity: 1;
 }
